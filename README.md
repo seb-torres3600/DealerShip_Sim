@@ -2,6 +2,11 @@
 ## Sebastian Torres | seto2103 | 109330786 
 ## Jack Ashburn | jaas0665 | 109190215
 
+## Summary:
+This is a car dealership type simulation for my OOAD class. It is object oriented written in Java
+
+Specific details regarding the project are in PDF's folder including a UML of it all
+
 ### Java version used (directly from 'java -version'): 
 - openjdk 19.0.2 2023-01-17
 - OpenJDK Runtime Environment (build 19.0.2+7-44)
