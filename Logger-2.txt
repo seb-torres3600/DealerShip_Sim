@@ -1,0 +1,52 @@
+*** FNCD Day 2 ***
+DEALER NORTH: intern_1 washed truck_3 with Detailed Wash and made it 0
+DEALER NORTH: intern_1 washed car_2 with Detailed Wash and made it 1
+DEALER NORTH: intern_2 washed car_5 with Detailed Wash and made it 0
+DEALER SOUTH: intern_1 washed performance_2 with Detailed Wash and made it 2
+DEALER SOUTH: intern_1 washed Performance Car performance_2 and made it Sparkling (earned $50 bonus) with Detailed Wash
+DEALER SOUTH: intern_1 washed Bigfoot_0 with Detailed Wash and made it 2
+DEALER SOUTH: intern_1 washed Monster Truck Bigfoot_0 and made it Sparkling (earned $40 bonus) with Detailed Wash
+DEALER SOUTH: intern_2 washed motorycle_1 with Detailed Wash and made it 1
+DEALER SOUTH: intern_2 washed performance_1 with Detailed Wash and made it 2
+DEALER SOUTH: intern_2 washed Performance Car performance_1 and made it Sparkling (earned $50 bonus) with Detailed Wash
+DEALER SOUTH: intern_3 washed car_1 with Detailed Wash and made it 1
+DEALER NORTH: mechanic_1 fixed super_car5 and made it Like New
+DEALER NORTH: mechanic_1 fixed Super Car super_car5 and made it Like New(earned $10000 bonus)
+DEALER NORTH: mechanic_2 fixed truck_6 and made it Used
+DEALER NORTH: mechanic_3 fixed truck_6 and made it Like New
+DEALER NORTH: mechanic_3 fixed Truck truck_6 and made it Like New(earned $300 bonus)
+DEALER SOUTH: mechanic_1 fixed muscle_car3 and made it Broken
+DEALER SOUTH: mechanic_1 fixed electric_3 and made it Like New
+DEALER SOUTH: mechanic_1 fixed Electric Car electric_3 and made it Like New(earned $200 bonus)
+DEALER SOUTH: mechanic_2 fixed classic_car_5 and made it Like New
+DEALER SOUTH: mechanic_2 fixed Classic Car classic_car_5 and made it Like New(earned $1000 bonus)
+DEALER SOUTH: mechanic_3 fixed Bulldozer_0 and made it Used
+DEALER SOUTH: mechanic_3 fixed Monster Truck Bulldozer_0 and made it Used(earned $300 bonus)
+DEALER SOUTH: mechanic_3 fixed muscle_car5 and made it Like New
+DEALER SOUTH: mechanic_3 fixed Muscle Car muscle_car5 and made it Like New(earned $400 bonus)
+DEALER SOUTH: The customer added an Undercoating to Blacksmith_0, increasing the price from 159250 to 167212
+DEALER SOUTH: salesperson_2 sold Monster Truck Blacksmith_0 to Buyer for $ 167212 (earned $600 bonus)
+DEALER NORTH: intern_1 got paid $100
+DEALER NORTH: intern_2 got paid $100
+DEALER NORTH: intern_3 got paid $100
+DEALER NORTH: mechanic_1 got paid $800
+DEALER NORTH: mechanic_2 got paid $800
+DEALER NORTH: mechanic_3 got paid $800
+DEALER NORTH: salesperson_1 got paid $500
+DEALER NORTH: salesperson_2 got paid $500
+DEALER NORTH: salesperson_3 got paid $500
+DEALER NORTH: driver_1 got paid $1000
+DEALER NORTH: driver_2 got paid $1000
+DEALER NORTH: driver_3 got paid $1000
+DEALER SOUTH: intern_1 got paid $100
+DEALER SOUTH: intern_2 got paid $100
+DEALER SOUTH: intern_3 got paid $100
+DEALER SOUTH: mechanic_1 got paid $800
+DEALER SOUTH: mechanic_2 got paid $800
+DEALER SOUTH: mechanic_3 got paid $800
+DEALER SOUTH: salesperson_1 got paid $500
+DEALER SOUTH: salesperson_2 got paid $500
+DEALER SOUTH: salesperson_3 got paid $500
+DEALER SOUTH: driver_1 got paid $1000
+DEALER SOUTH: driver_2 got paid $1000
+DEALER SOUTH: driver_3 got paid $1000

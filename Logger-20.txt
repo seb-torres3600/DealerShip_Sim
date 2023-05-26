@@ -1,0 +1,53 @@
+*** FNCD Day 20 ***
+DEALER SOUTH: Acquired super_car_8 at a cost of $138564
+DEALER NORTH: intern_3 washed muscle_car1 with Detailed Wash and made it 0
+DEALER NORTH: intern_3 washed electric_car_8 with Detailed Wash and made it 2
+DEALER NORTH: intern_3 washed Electric Car electric_car_8 and made it Sparkling (earned $40 bonus) with Detailed Wash
+DEALER NORTH: intern_4 washed truck_9 with Detailed Wash and made it 0
+DEALER NORTH: intern_4 washed classic_car_4 with Detailed Wash and made it 1
+DEALER NORTH: intern_5 washed muscle_car2 with Detailed Wash and made it 1
+DEALER NORTH: intern_5 washed truck_4 with Detailed Wash and made it 2
+DEALER NORTH: intern_5 washed Truck truck_4 and made it Sparkling (earned $40 bonus) with Detailed Wash
+DEALER NORTH: mechanic_3 fixed truck_7 and made it Like New
+DEALER NORTH: mechanic_3 fixed Truck truck_7 and made it Like New(earned $300 bonus)
+DEALER SOUTH: mechanic_2 fixed performance_5 and made it Like New
+DEALER SOUTH: mechanic_2 fixed Performance Car performance_5 and made it Like New(earned $500 bonus)
+DEALER SOUTH: mechanic_2 fixed truck_1 and made it Like New
+DEALER SOUTH: mechanic_2 fixed Truck truck_1 and made it Like New(earned $300 bonus)
+DEALER NORTH: The customer added a Satellite Radio to muscle_car_7, increasing the price from 86424 to 90745
+DEALER NORTH: salesperson_3 sold Muscle Car muscle_car_7 to Buyer for $ 90745 (earned $120 bonus)
+DEALER SOUTH: salesperson_2 sold Motorcycle motorycle_5 to Buyer for $ 12682 (earned $200 bonus)
+DEALER SOUTH: The customer added an Undercoating to muscle_car3, increasing the price from 82505 to 86630
+DEALER SOUTH: salesperson_2 sold Muscle Car muscle_car3 to Buyer for $ 86630 (earned $120 bonus)
+DEALER SOUTH: salesperson_2 sold Car car_5 to Buyer for $ 35047 (earned $300 bonus)
+DEALER SOUTH: The customer added a Satellite Radio to electric_car_8, increasing the price from 129272 to 135735
+DEALER SOUTH: intern_7 sold Electric Car electric_car_8 to Buyer for $ 135735 (earned $600 bonus)
+DEALER SOUTH: salesperson_3 sold Super Car super_car1 to Buyer for $ 321796 (earned $5000 bonus)
+DEALER NORTH: driver_1 drove performance_1 in the race and finished in position 10.
+DEALER NORTH: driver_2 drove performance_2 in the race and finished in position 8.
+DEALER NORTH: driver_4 drove performance_6 in the race and finished in position 9.
+DEALER SOUTH: driver_1 and motorycle_4 won the race in position 3!
+DEALER NORTH: intern_3 got paid $100
+DEALER NORTH: intern_4 got paid $100
+DEALER NORTH: intern_5 got paid $100
+DEALER NORTH: mechanic_1 got paid $800
+DEALER NORTH: mechanic_2 got paid $800
+DEALER NORTH: mechanic_3 got paid $800
+DEALER NORTH: salesperson_3 got paid $500
+DEALER NORTH: intern_1 got paid $500
+DEALER NORTH: intern_2 got paid $500
+DEALER NORTH: driver_1 got paid $1000
+DEALER NORTH: driver_2 got paid $1000
+DEALER NORTH: driver_4 got paid $1000
+DEALER SOUTH: intern_9 got paid $100
+DEALER SOUTH: intern_11 got paid $100
+DEALER SOUTH: intern_12 got paid $100
+DEALER SOUTH: mechanic_1 got paid $800
+DEALER SOUTH: mechanic_2 got paid $800
+DEALER SOUTH: mechanic_3 got paid $800
+DEALER SOUTH: salesperson_2 got paid $500
+DEALER SOUTH: salesperson_3 got paid $500
+DEALER SOUTH: intern_7 got paid $500
+DEALER SOUTH: driver_1 got paid $1000
+DEALER SOUTH: driver_2 got paid $1000
+DEALER SOUTH: driver_4 got paid $1000

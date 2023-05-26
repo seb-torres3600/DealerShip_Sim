@@ -1,0 +1,58 @@
+*** FNCD Day 8 ***
+DEALER NORTH: intern_2 washed classic_car_4 with Detailed Wash and made it 1
+DEALER NORTH: intern_2 washed classic_car_5 with Detailed Wash and made it 1
+DEALER NORTH: intern_3 washed electric_1 with Detailed Wash and made it 1
+DEALER NORTH: intern_3 washed car_5 with Detailed Wash and made it 1
+DEALER NORTH: intern_4 washed truck_3 with Detailed Wash and made it 2
+DEALER NORTH: intern_4 washed Truck truck_3 and made it Sparkling (earned $40 bonus) with Detailed Wash
+DEALER NORTH: intern_4 washed electric_1 with Detailed Wash and made it 1
+DEALER SOUTH: intern_3 washed performance_5 with Detailed Wash and made it 1
+DEALER SOUTH: intern_3 washed motorycle_1 with Detailed Wash and made it 1
+DEALER SOUTH: intern_5 washed car_2 with Detailed Wash and made it 0
+DEALER SOUTH: intern_5 washed super_car2 with Detailed Wash and made it 2
+DEALER SOUTH: intern_5 washed Super Car super_car2 and made it Sparkling (earned $500 bonus) with Detailed Wash
+DEALER SOUTH: intern_7 washed super_car1 with Detailed Wash and made it 0
+DEALER SOUTH: intern_7 washed motorycle_1 with Detailed Wash and made it 1
+DEALER NORTH: mechanic_2 fixed performance_2 and made it Like New
+DEALER NORTH: mechanic_2 fixed Performance Car performance_2 and made it Like New(earned $500 bonus)
+DEALER NORTH: mechanic_2 fixed performance_3 and made it Used
+DEALER NORTH: mechanic_2 fixed Performance Car performance_3 and made it Used(earned $500 bonus)
+DEALER NORTH: mechanic_3 fixed car_1 and made it Used
+DEALER NORTH: mechanic_3 fixed Car car_1 and made it Used(earned $100 bonus)
+DEALER NORTH: mechanic_3 fixed muscle_car4 and made it Like New
+DEALER NORTH: mechanic_3 fixed Muscle Car muscle_car4 and made it Like New(earned $400 bonus)
+DEALER SOUTH: mechanic_1 fixed muscle_car1 and made it Broken
+DEALER SOUTH: mechanic_2 fixed electric_2 and made it Broken
+DEALER SOUTH: mechanic_2 fixed classic_car_6 and made it Like New
+DEALER SOUTH: mechanic_2 fixed Classic Car classic_car_6 and made it Like New(earned $1000 bonus)
+DEALER NORTH: salesperson_3 sold Electric Car electric_5 to Buyer for $ 125784 (earned $600 bonus)
+DEALER NORTH: salesperson_3 sold Super Car super_car3 to Buyer for $ 375966 (earned $5000 bonus)
+DEALER NORTH: The customer added an Extended Warranty to classic_car_2, increasing the price from 59960 to 71952
+DEALER NORTH: intern_1 sold Classic Car classic_car_2 to Buyer for $ 71952 (earned $500 bonus)
+DEALER NORTH: The customer added a Satellite Radio to car_3, increasing the price from 28548 to 29975
+DEALER NORTH: salesperson_2 sold Car car_3 to Buyer for $ 29975 (earned $300 bonus)
+DEALER NORTH: intern_2 got paid $100
+DEALER NORTH: intern_3 got paid $100
+DEALER NORTH: intern_4 got paid $100
+DEALER NORTH: mechanic_1 got paid $800
+DEALER NORTH: mechanic_2 got paid $800
+DEALER NORTH: mechanic_3 got paid $800
+DEALER NORTH: salesperson_2 got paid $500
+DEALER NORTH: salesperson_3 got paid $500
+DEALER NORTH: intern_1 got paid $500
+DEALER NORTH: driver_1 got paid $1000
+DEALER NORTH: driver_2 got paid $1000
+DEALER NORTH: driver_3 got paid $1000
+DEALER SOUTH: intern_3 got paid $100
+DEALER SOUTH: intern_5 got paid $100
+DEALER SOUTH: intern_7 got paid $100
+DEALER SOUTH: mechanic_1 got paid $800
+DEALER SOUTH: mechanic_2 got paid $800
+DEALER SOUTH: mechanic_3 got paid $800
+DEALER SOUTH: salesperson_1 got paid $500
+DEALER SOUTH: salesperson_2 got paid $500
+DEALER SOUTH: salesperson_3 got paid $500
+DEALER SOUTH: driver_1 got paid $1000
+DEALER SOUTH: driver_2 got paid $1000
+DEALER SOUTH: driver_4 got paid $1000
+DEALER NORTH: Sales Person salesperson_2 quit.

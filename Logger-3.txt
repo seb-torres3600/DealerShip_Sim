@@ -1,0 +1,50 @@
+*** FNCD Day 3 ***
+DEALER NORTH: intern_1 washed car_1 with Detailed Wash and made it 1
+DEALER NORTH: intern_1 washed performance_6 with Detailed Wash and made it 2
+DEALER NORTH: intern_1 washed Performance Car performance_6 and made it Sparkling (earned $50 bonus) with Detailed Wash
+DEALER NORTH: intern_2 washed classic_car_5 with Detailed Wash and made it 2
+DEALER NORTH: intern_2 washed Classic Car classic_car_5 and made it Sparkling (earned $50 bonus) with Detailed Wash
+DEALER NORTH: intern_2 washed classic_car_1 with Detailed Wash and made it 1
+DEALER NORTH: intern_3 washed performance_2 with Detailed Wash and made it 1
+DEALER NORTH: intern_3 washed muscle_car5 with Detailed Wash and made it 1
+DEALER SOUTH: intern_1 washed Bulldozer_0 with Detailed Wash and made it 1
+DEALER NORTH: mechanic_3 fixed electric_1 and made it Used
+DEALER NORTH: mechanic_3 fixed Electric Car electric_1 and made it Used(earned $200 bonus)
+DEALER SOUTH: mechanic_1 fixed electric_6 and made it Like New
+DEALER SOUTH: mechanic_1 fixed Electric Car electric_6 and made it Like New(earned $200 bonus)
+DEALER SOUTH: mechanic_2 fixed classic_car_4 and made it Used
+DEALER SOUTH: mechanic_2 fixed Classic Car classic_car_4 and made it Used(earned $1000 bonus)
+DEALER SOUTH: mechanic_3 fixed car_1 and made it Used
+DEALER NORTH: The customer added an Undercoating to truck_1, increasing the price from 66682 to 70016
+DEALER NORTH: salesperson_3 sold Truck truck_1 to Buyer for $ 70016 (earned $600 bonus)
+DEALER SOUTH: salesperson_3 sold Car car_6 to Buyer for $ 36890 (earned $300 bonus)
+DEALER NORTH: driver_1 drove performance_1 in the race and finished in position 8.
+DEALER NORTH: driver_2 drove performance_2 in the race and finished in position 10.
+DEALER NORTH: driver_3 and performance_3 lost the race and finished in position 16.
+DEALER SOUTH: driver_1 and performance_1 lost the race and finished in position 17.
+DEALER SOUTH: driver_2 drove performance_2 in the race and finished in position 6.
+DEALER SOUTH: driver_3 and performance_3 lost the race and finished in position 16.
+DEALER NORTH: intern_1 got paid $100
+DEALER NORTH: intern_2 got paid $100
+DEALER NORTH: intern_3 got paid $100
+DEALER NORTH: mechanic_1 got paid $800
+DEALER NORTH: mechanic_2 got paid $800
+DEALER NORTH: mechanic_3 got paid $800
+DEALER NORTH: salesperson_1 got paid $500
+DEALER NORTH: salesperson_2 got paid $500
+DEALER NORTH: salesperson_3 got paid $500
+DEALER NORTH: driver_1 got paid $1000
+DEALER NORTH: driver_2 got paid $1000
+DEALER NORTH: driver_3 got paid $1000
+DEALER SOUTH: intern_1 got paid $100
+DEALER SOUTH: intern_2 got paid $100
+DEALER SOUTH: intern_3 got paid $100
+DEALER SOUTH: mechanic_1 got paid $800
+DEALER SOUTH: mechanic_2 got paid $800
+DEALER SOUTH: mechanic_3 got paid $800
+DEALER SOUTH: salesperson_1 got paid $500
+DEALER SOUTH: salesperson_2 got paid $500
+DEALER SOUTH: salesperson_3 got paid $500
+DEALER SOUTH: driver_1 got paid $1000
+DEALER SOUTH: driver_2 got paid $1000
+DEALER SOUTH: driver_3 got paid $1000

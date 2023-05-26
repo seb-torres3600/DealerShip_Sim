@@ -1,0 +1,55 @@
+*** FNCD Day 6 ***
+DEALER NORTH: Promoted Intern intern_1 to Sales Person
+DEALER NORTH: Hired Intern intern_4
+DEALER NORTH: intern_2 washed muscle_car1 with Detailed Wash and made it 1
+DEALER NORTH: intern_2 washed electric_6 with Detailed Wash and made it 2
+DEALER NORTH: intern_2 washed Electric Car electric_6 and made it Sparkling (earned $40 bonus) with Detailed Wash
+DEALER SOUTH: intern_2 washed Bulldozer_1 with Detailed Wash and made it 0
+DEALER NORTH: mechanic_2 fixed electric_3 and made it Used
+DEALER NORTH: mechanic_3 fixed muscle_car2 and made it Like New
+DEALER NORTH: mechanic_3 fixed Muscle Car muscle_car2 and made it Like New(earned $400 bonus)
+DEALER SOUTH: mechanic_1 fixed performance_2 and made it Used
+DEALER SOUTH: mechanic_1 fixed super_car1 and made it Like New
+DEALER SOUTH: mechanic_1 fixed Super Car super_car1 and made it Like New(earned $10000 bonus)
+DEALER SOUTH: mechanic_2 fixed classic_car_3 and made it Used
+DEALER SOUTH: mechanic_2 fixed Classic Car classic_car_3 and made it Used(earned $1000 bonus)
+DEALER SOUTH: mechanic_2 fixed car_3 and made it Like New
+DEALER SOUTH: mechanic_2 fixed Car car_3 and made it Like New(earned $100 bonus)
+DEALER SOUTH: mechanic_3 fixed car_5 and made it Used
+DEALER SOUTH: mechanic_3 fixed Car car_5 and made it Used(earned $100 bonus)
+DEALER SOUTH: mechanic_3 fixed electric_2 and made it Broken
+DEALER NORTH: salesperson_2 sold Car car_2 to Buyer for $ 35152 (earned $300 bonus)
+DEALER NORTH: The customer added a Satellite Radio to classic_car_6, increasing the price from 76798 to 80638
+DEALER NORTH: salesperson_2 sold Classic Car classic_car_6 to Buyer for $ 80638 (earned $500 bonus)
+DEALER SOUTH: salesperson_2 sold Motorcycle motorycle_3 to Buyer for $ 19350 (earned $200 bonus)
+DEALER NORTH: driver_1 and muscle_car2 won the race in position 2!
+DEALER NORTH: driver_2 and muscle_car3 won the race in position 1!
+DEALER NORTH: driver_3 drove muscle_car4 in the race and finished in position 7.
+DEALER SOUTH: driver_1 and muscle_car1 lost the race and finished in position 18.
+DEALER SOUTH: driver_2 drove muscle_car4 in the race and finished in position 10.
+DEALER SOUTH: driver_3 and muscle_car5 lost the race and finished in position 17.
+DEALER SOUTH: Driver driver_3 got injured.
+DEALER NORTH: intern_2 got paid $100
+DEALER NORTH: intern_3 got paid $100
+DEALER NORTH: intern_4 got paid $100
+DEALER NORTH: mechanic_1 got paid $800
+DEALER NORTH: mechanic_2 got paid $800
+DEALER NORTH: mechanic_3 got paid $800
+DEALER NORTH: salesperson_2 got paid $500
+DEALER NORTH: salesperson_3 got paid $500
+DEALER NORTH: intern_1 got paid $500
+DEALER NORTH: driver_1 got paid $1000
+DEALER NORTH: driver_2 got paid $1000
+DEALER NORTH: driver_3 got paid $1000
+DEALER SOUTH: intern_2 got paid $100
+DEALER SOUTH: intern_3 got paid $100
+DEALER SOUTH: intern_5 got paid $100
+DEALER SOUTH: mechanic_1 got paid $800
+DEALER SOUTH: mechanic_2 got paid $800
+DEALER SOUTH: mechanic_3 got paid $800
+DEALER SOUTH: salesperson_1 got paid $500
+DEALER SOUTH: salesperson_2 got paid $500
+DEALER SOUTH: salesperson_3 got paid $500
+DEALER SOUTH: driver_1 got paid $1000
+DEALER SOUTH: driver_2 got paid $1000
+DEALER SOUTH: Intern intern_2 quit.

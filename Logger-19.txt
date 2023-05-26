@@ -1,0 +1,51 @@
+*** FNCD Day 19 ***
+DEALER NORTH: Acquired motorcycle_7 at a cost of $6246
+DEALER NORTH: Acquired motorcycle_8 at a cost of $6080
+DEALER SOUTH: Acquired motorcycle_9 at a cost of $7495
+DEALER SOUTH: Acquired electric_car_7 at a cost of $53950
+DEALER SOUTH: Acquired electric_car_8 at a cost of $64636
+DEALER SOUTH: Acquired super_car_7 at a cost of $140272
+DEALER SOUTH: Promoted Intern intern_7 to Sales Person
+DEALER SOUTH: Hired Intern intern_12
+DEALER NORTH: intern_3 washed performance_2 with Detailed Wash and made it 1
+DEALER NORTH: intern_3 washed truck_4 with Detailed Wash and made it 1
+DEALER NORTH: intern_4 washed truck_7 with Detailed Wash and made it 1
+DEALER NORTH: intern_4 washed car_7 with Detailed Wash and made it 1
+DEALER NORTH: intern_5 washed truck_8 with Detailed Wash and made it 1
+DEALER NORTH: intern_5 washed truck_8 with Detailed Wash and made it 2
+DEALER NORTH: intern_5 washed Truck truck_8 and made it Sparkling (earned $40 bonus) with Detailed Wash
+DEALER SOUTH: intern_9 washed electric_car_8 with Detailed Wash and made it 1
+DEALER SOUTH: intern_9 washed motorcycle_7 with Detailed Wash and made it 2
+DEALER SOUTH: intern_9 washed Motorcycle motorcycle_7 and made it Sparkling (earned $20 bonus) with Detailed Wash
+DEALER NORTH: mechanic_1 fixed Black Stallion_0 and made it Used
+DEALER NORTH: mechanic_1 fixed Monster Truck Black Stallion_0 and made it Used(earned $300 bonus)
+DEALER SOUTH: mechanic_2 fixed car_2 and made it Like New
+DEALER SOUTH: mechanic_2 fixed Car car_2 and made it Like New(earned $100 bonus)
+DEALER SOUTH: mechanic_2 fixed Bulldozer_1 and made it Like New
+DEALER SOUTH: mechanic_2 fixed Monster Truck Bulldozer_1 and made it Like New(earned $300 bonus)
+DEALER SOUTH: The customer added a Satellite Radio to super_car3, increasing the price from 369762 to 388250
+DEALER SOUTH: salesperson_3 sold Super Car super_car3 to Buyer for $ 388250 (earned $5000 bonus)
+DEALER NORTH: intern_3 got paid $100
+DEALER NORTH: intern_4 got paid $100
+DEALER NORTH: intern_5 got paid $100
+DEALER NORTH: mechanic_1 got paid $800
+DEALER NORTH: mechanic_2 got paid $800
+DEALER NORTH: mechanic_3 got paid $800
+DEALER NORTH: salesperson_3 got paid $500
+DEALER NORTH: intern_1 got paid $500
+DEALER NORTH: intern_2 got paid $500
+DEALER NORTH: driver_1 got paid $1000
+DEALER NORTH: driver_2 got paid $1000
+DEALER NORTH: driver_4 got paid $1000
+DEALER SOUTH: intern_9 got paid $100
+DEALER SOUTH: intern_11 got paid $100
+DEALER SOUTH: intern_12 got paid $100
+DEALER SOUTH: mechanic_1 got paid $800
+DEALER SOUTH: mechanic_2 got paid $800
+DEALER SOUTH: mechanic_3 got paid $800
+DEALER SOUTH: salesperson_2 got paid $500
+DEALER SOUTH: salesperson_3 got paid $500
+DEALER SOUTH: intern_7 got paid $500
+DEALER SOUTH: driver_1 got paid $1000
+DEALER SOUTH: driver_2 got paid $1000
+DEALER SOUTH: driver_4 got paid $1000

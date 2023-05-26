@@ -1,0 +1,54 @@
+*** FNCD Day 15 ***
+DEALER NORTH: Acquired truck_8 at a cost of 23429
+DEALER NORTH: Acquired truck_9 at a cost of 18234
+DEALER NORTH: intern_3 washed classic_car_5 with Detailed Wash and made it 1
+DEALER SOUTH: intern_5 washed Black Stallion_0 with Detailed Wash and made it 0
+DEALER SOUTH: intern_5 washed muscle_car_8 with Detailed Wash and made it 2
+DEALER SOUTH: intern_5 washed Muscle Car muscle_car_8 and made it Sparkling (earned $40 bonus) with Detailed Wash
+DEALER SOUTH: intern_7 washed classic_car_5 with Detailed Wash and made it 1
+DEALER NORTH: mechanic_2 fixed car_6 and made it Used
+DEALER NORTH: mechanic_3 fixed truck_4 and made it Broken
+DEALER NORTH: mechanic_3 fixed car_6 and made it Like New
+DEALER NORTH: mechanic_3 fixed Car car_6 and made it Like New(earned $100 bonus)
+DEALER SOUTH: mechanic_1 fixed motorycle_2 and made it Used
+DEALER SOUTH: mechanic_1 fixed Motorcycle motorycle_2 and made it Used(earned $100 bonus)
+DEALER SOUTH: mechanic_2 fixed classic_car_1 and made it Used
+DEALER SOUTH: mechanic_2 fixed Classic Car classic_car_1 and made it Used(earned $1000 bonus)
+DEALER SOUTH: mechanic_3 fixed super_car4 and made it Like New
+DEALER SOUTH: mechanic_3 fixed Super Car super_car4 and made it Like New(earned $10000 bonus)
+DEALER NORTH: The customer added an Extended Warranty to electric_car_7, increasing the price from 124982 to 149978
+DEALER NORTH: intern_1 sold Electric Car electric_car_7 to Buyer for $ 149978 (earned $600 bonus)
+DEALER NORTH: The customer added an Extended Warranty to electric_3, increasing the price from 90778 to 108933
+DEALER NORTH: The customer added a Satellite Radio to electric_3, increasing the price from 108933 to 114380
+DEALER NORTH: intern_2 sold Electric Car electric_3 to Buyer for $ 114380 (earned $600 bonus)
+DEALER SOUTH: salesperson_3 sold Motorcycle motorycle_2 to Buyer for $ 19677 (earned $200 bonus)
+DEALER SOUTH: salesperson_1 sold Motorcycle motorycle_6 to Buyer for $ 18355 (earned $200 bonus)
+DEALER SOUTH: The customer added a Satellite Radio to Black Stallion_0, increasing the price from 139662 to 146645
+DEALER SOUTH: salesperson_1 sold Monster Truck Black Stallion_0 to Buyer for $ 146645 (earned $600 bonus)
+DEALER SOUTH: The customer added an Extended Warranty to classic_car_3, increasing the price from 94020 to 112824
+DEALER SOUTH: The customer added a Satellite Radio to classic_car_3, increasing the price from 112824 to 118465
+DEALER SOUTH: salesperson_2 sold Classic Car classic_car_3 to Buyer for $ 118465 (earned $500 bonus)
+DEALER NORTH: intern_3 got paid $100
+DEALER NORTH: intern_4 got paid $100
+DEALER NORTH: intern_5 got paid $100
+DEALER NORTH: mechanic_1 got paid $800
+DEALER NORTH: mechanic_2 got paid $800
+DEALER NORTH: mechanic_3 got paid $800
+DEALER NORTH: salesperson_3 got paid $500
+DEALER NORTH: intern_1 got paid $500
+DEALER NORTH: intern_2 got paid $500
+DEALER NORTH: driver_1 got paid $1000
+DEALER NORTH: driver_2 got paid $1000
+DEALER NORTH: driver_3 got paid $1000
+DEALER SOUTH: intern_5 got paid $100
+DEALER SOUTH: intern_7 got paid $100
+DEALER SOUTH: intern_9 got paid $100
+DEALER SOUTH: mechanic_1 got paid $800
+DEALER SOUTH: mechanic_2 got paid $800
+DEALER SOUTH: mechanic_3 got paid $800
+DEALER SOUTH: salesperson_1 got paid $500
+DEALER SOUTH: salesperson_2 got paid $500
+DEALER SOUTH: salesperson_3 got paid $500
+DEALER SOUTH: driver_1 got paid $1000
+DEALER SOUTH: driver_2 got paid $1000
+DEALER SOUTH: driver_4 got paid $1000

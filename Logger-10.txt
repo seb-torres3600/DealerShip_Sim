@@ -1,0 +1,54 @@
+*** FNCD Day 10 ***
+DEALER SOUTH: Acquired Cyborg_1 at a cost of $62478
+DEALER SOUTH: Hired Intern intern_9
+DEALER NORTH: intern_3 washed truck_6 with Detailed Wash and made it 2
+DEALER NORTH: intern_3 washed Truck truck_6 and made it Sparkling (earned $40 bonus) with Detailed Wash
+DEALER NORTH: intern_3 washed car_6 with Detailed Wash and made it 2
+DEALER NORTH: intern_3 washed Car car_6 and made it Sparkling (earned $20 bonus) with Detailed Wash
+DEALER NORTH: intern_4 washed truck_2 with Detailed Wash and made it 1
+DEALER NORTH: intern_4 washed electric_1 with Detailed Wash and made it 2
+DEALER NORTH: intern_4 washed Electric Car electric_1 and made it Sparkling (earned $40 bonus) with Detailed Wash
+DEALER SOUTH: intern_5 washed electric_2 with Detailed Wash and made it 1
+DEALER SOUTH: intern_5 washed Black Stallion_0 with Detailed Wash and made it 1
+DEALER SOUTH: intern_7 washed super_car1 with Detailed Wash and made it 1
+DEALER SOUTH: intern_7 washed car_4 with Detailed Wash and made it 1
+DEALER SOUTH: intern_9 washed muscle_car5 with Detailed Wash and made it 1
+DEALER SOUTH: intern_9 washed car_4 with Detailed Wash and made it 1
+DEALER NORTH: mechanic_1 fixed Grinder_0 and made it Used
+DEALER SOUTH: mechanic_1 fixed classic_car_1 and made it Broken
+DEALER SOUTH: mechanic_2 fixed car_2 and made it Used
+DEALER SOUTH: mechanic_2 fixed Car car_2 and made it Used(earned $100 bonus)
+DEALER SOUTH: mechanic_2 fixed performance_1 and made it Used
+DEALER SOUTH: mechanic_2 fixed Performance Car performance_1 and made it Used(earned $500 bonus)
+DEALER NORTH: salesperson_3 sold Truck truck_5 to Buyer for $ 79822 (earned $600 bonus)
+DEALER NORTH: The customer added Road Rescue Coverage to truck_6, increasing the price from 66058 to 67379
+DEALER NORTH: salesperson_3 sold Truck truck_6 to Buyer for $ 67379 (earned $600 bonus)
+DEALER SOUTH: salesperson_1 sold Muscle Car muscle_car5 to Buyer for $ 118207 (earned $120 bonus)
+DEALER NORTH: driver_1 and performance_1 lost the race and finished in position 18.
+DEALER NORTH: driver_2 and performance_2 lost the race and finished in position 17.
+DEALER NORTH: driver_3 and performance_3 lost the race and finished in position 20.
+DEALER SOUTH: driver_1 and muscle_car4 won the race in position 1!
+DEALER NORTH: intern_3 got paid $100
+DEALER NORTH: intern_4 got paid $100
+DEALER NORTH: intern_5 got paid $100
+DEALER NORTH: mechanic_1 got paid $800
+DEALER NORTH: mechanic_2 got paid $800
+DEALER NORTH: mechanic_3 got paid $800
+DEALER NORTH: salesperson_3 got paid $500
+DEALER NORTH: intern_1 got paid $500
+DEALER NORTH: intern_2 got paid $500
+DEALER NORTH: driver_1 got paid $1000
+DEALER NORTH: driver_2 got paid $1000
+DEALER NORTH: driver_3 got paid $1000
+DEALER SOUTH: intern_5 got paid $100
+DEALER SOUTH: intern_7 got paid $100
+DEALER SOUTH: intern_9 got paid $100
+DEALER SOUTH: mechanic_1 got paid $800
+DEALER SOUTH: mechanic_2 got paid $800
+DEALER SOUTH: mechanic_3 got paid $800
+DEALER SOUTH: salesperson_1 got paid $500
+DEALER SOUTH: salesperson_2 got paid $500
+DEALER SOUTH: salesperson_3 got paid $500
+DEALER SOUTH: driver_1 got paid $1000
+DEALER SOUTH: driver_2 got paid $1000
+DEALER SOUTH: driver_4 got paid $1000

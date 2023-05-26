@@ -1,0 +1,67 @@
+*** FNCD Day 17 ***
+DEALER SOUTH: Acquired classic_car_7 at a cost of $44290
+DEALER SOUTH: Acquired muscle_car_9 at a cost of $34126
+DEALER NORTH: intern_3 washed performance_6 with Detailed Wash and made it 0
+DEALER NORTH: intern_3 washed muscle_car5 with Detailed Wash and made it 1
+DEALER NORTH: intern_4 washed super_car_7 with Detailed Wash and made it 1
+DEALER NORTH: intern_4 washed muscle_car5 with Detailed Wash and made it 1
+DEALER NORTH: intern_5 washed performance_2 with Detailed Wash and made it 1
+DEALER NORTH: intern_5 washed motorycle_3 with Detailed Wash and made it 2
+DEALER NORTH: intern_5 washed Motorcycle motorycle_3 and made it Sparkling (earned $20 bonus) with Detailed Wash
+DEALER SOUTH: intern_5 washed motorcycle_7 with Detailed Wash and made it 1
+DEALER SOUTH: intern_5 washed motorcycle_7 with Detailed Wash and made it 1
+DEALER SOUTH: intern_7 washed classic_car_7 with Detailed Wash and made it 1
+DEALER SOUTH: intern_7 washed Bigfoot_0 with Detailed Wash and made it 1
+DEALER SOUTH: intern_9 washed Cyborg_1 with Detailed Wash and made it 1
+DEALER SOUTH: intern_9 washed Bigfoot_0 with Detailed Wash and made it 2
+DEALER SOUTH: intern_9 washed Monster Truck Bigfoot_0 and made it Sparkling (earned $40 bonus) with Detailed Wash
+DEALER NORTH: mechanic_1 fixed performance_2 and made it Like New
+DEALER NORTH: mechanic_1 fixed Performance Car performance_2 and made it Like New(earned $500 bonus)
+DEALER NORTH: mechanic_2 fixed Black Stallion_0 and made it Like New
+DEALER NORTH: mechanic_2 fixed Monster Truck Black Stallion_0 and made it Like New(earned $300 bonus)
+DEALER NORTH: mechanic_3 fixed Grinder_0 and made it Like New
+DEALER NORTH: mechanic_3 fixed Monster Truck Grinder_0 and made it Like New(earned $300 bonus)
+DEALER SOUTH: mechanic_3 fixed Cyborg_1 and made it Like New
+DEALER SOUTH: mechanic_3 fixed Monster Truck Cyborg_1 and made it Like New(earned $300 bonus)
+DEALER NORTH: The customer added an Extended Warranty to car_1, increasing the price from 31290 to 37548
+DEALER NORTH: intern_2 sold Car car_1 to Buyer for $ 37548 (earned $300 bonus)
+DEALER SOUTH: The customer added an Extended Warranty to electric_3, increasing the price from 156034 to 187240
+DEALER SOUTH: The customer added a Satellite Radio to electric_3, increasing the price from 187240 to 196602
+DEALER SOUTH: salesperson_3 sold Electric Car electric_3 to Buyer for $ 196602 (earned $600 bonus)
+DEALER SOUTH: The customer added an Extended Warranty to super_car5, increasing the price from 410522 to 492626
+DEALER SOUTH: salesperson_2 sold Super Car super_car5 to Buyer for $ 492626 (earned $5000 bonus)
+DEALER SOUTH: salesperson_2 sold Electric Car electric_6 to Buyer for $ 153762 (earned $600 bonus)
+DEALER SOUTH: The customer added an Extended Warranty to car_4, increasing the price from 35202 to 42242
+DEALER SOUTH: The customer added an Undercoating to car_4, increasing the price from 42242 to 44354
+DEALER SOUTH: salesperson_2 sold Car car_4 to Buyer for $ 44354 (earned $300 bonus)
+DEALER NORTH: driver_1 drove Game Over_0 in the race and finished in position 15.
+DEALER NORTH: driver_2 and El Toro Loco_0 won the race in position 1!
+DEALER NORTH: driver_3 and Black Stallion_0 lost the race and finished in position 16.
+DEALER NORTH: Driver driver_3 got injured.
+DEALER SOUTH: driver_1 and performance_1 won the race in position 1!
+DEALER SOUTH: driver_2 drove performance_2 in the race and finished in position 4.
+DEALER SOUTH: driver_4 drove performance_3 in the race and finished in position 12.
+DEALER NORTH: intern_3 got paid $100
+DEALER NORTH: intern_4 got paid $100
+DEALER NORTH: intern_5 got paid $100
+DEALER NORTH: mechanic_1 got paid $800
+DEALER NORTH: mechanic_2 got paid $800
+DEALER NORTH: mechanic_3 got paid $800
+DEALER NORTH: salesperson_3 got paid $500
+DEALER NORTH: intern_1 got paid $500
+DEALER NORTH: intern_2 got paid $500
+DEALER NORTH: driver_1 got paid $1000
+DEALER NORTH: driver_2 got paid $1000
+DEALER SOUTH: intern_5 got paid $100
+DEALER SOUTH: intern_7 got paid $100
+DEALER SOUTH: intern_9 got paid $100
+DEALER SOUTH: mechanic_1 got paid $800
+DEALER SOUTH: mechanic_2 got paid $800
+DEALER SOUTH: mechanic_3 got paid $800
+DEALER SOUTH: salesperson_1 got paid $500
+DEALER SOUTH: salesperson_2 got paid $500
+DEALER SOUTH: salesperson_3 got paid $500
+DEALER SOUTH: driver_1 got paid $1000
+DEALER SOUTH: driver_2 got paid $1000
+DEALER SOUTH: driver_4 got paid $1000
+DEALER SOUTH: Intern intern_5 quit.
